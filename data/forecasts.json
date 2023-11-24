@@ -574,5 +574,41 @@
     "temperature": 7.53,
     "description": "nuageux",
     "timestamp": 1699602878954
+  },
+  {
+    "city": "bienne",
+    "temperature": 4.74,
+    "description": "bruine légère",
+    "timestamp": 1700810899413
+  },
+  {
+    "city": "lajoux",
+    "temperature": 1.76,
+    "description": "couvert",
+    "timestamp": 1700810912441
+  },
+  {
+    "city": "bienne",
+    "temperature": 4.74,
+    "description": "bruine légère",
+    "timestamp": 1700810943903
+  },
+  {
+    "city": "bienne",
+    "temperature": 5,
+    "description": "couvert",
+    "timestamp": 1700812079279
+  },
+  {
+    "city": "bienne",
+    "temperature": 5,
+    "description": "couvert",
+    "timestamp": 1700812094400
+  },
+  {
+    "city": "lajoux",
+    "temperature": 2.06,
+    "description": "couvert",
+    "timestamp": 1700812115645
   }
 ]
