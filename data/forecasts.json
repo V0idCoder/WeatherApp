@@ -610,5 +610,17 @@
     "temperature": 2.06,
     "description": "couvert",
     "timestamp": 1700812115645
+  },
+  {
+    "city": "lajoux",
+    "temperature": 2.06,
+    "description": "couvert",
+    "timestamp": 1700812352611
+  },
+  {
+    "city": "bienne",
+    "temperature": 2.87,
+    "description": "légères chutes de neige",
+    "timestamp": 1701413867582
   }
 ]

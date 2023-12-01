@@ -54,7 +54,7 @@ try{
     await fs.writeFile('data/users.json', JSON.stringify(users, null, 2), 'utf-8')
 
     
-    res.render('user/signup', { user });
+    res.render('user/login', { user });
 }catch(error){
     console.error(error);
     res.status(500).send("Une erreur est survenue")
